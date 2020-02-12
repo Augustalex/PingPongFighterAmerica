@@ -1,0 +1,15 @@
+{
+  "name": "ppfa",
+  "version": "",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "cli-color": "^1.2.0",
+    "colors": "^1.1.2",
+    "express": "^4.16.2",
+    "node": "^9.3.0",
+    "pug": "^2.0.0-rc.4",
+    "sports-team-name-generator": "^1.0.1"
+  }
+}
