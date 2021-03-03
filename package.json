@@ -9,7 +9,7 @@
     "colors": "^1.1.2",
     "express": "^4.16.2",
     "node": "^9.3.0",
-    "pug": "^2.0.0-rc.4",
+    "pug": "^3.0.1",
     "sports-team-name-generator": "^1.0.1"
   }
 }
